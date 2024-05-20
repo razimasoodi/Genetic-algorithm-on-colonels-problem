@@ -1,1 +1,1 @@
-# Genetic-algorithm-colonels-problem
+# Genetic-algorithm-on-colonels-problem
